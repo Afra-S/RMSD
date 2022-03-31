@@ -1,6 +1,6 @@
 # RMSD/F
 
-This repository contains python code to plot rmsd/f graph from a .xvg file(molecular simulation).
+This repository contains python code to plot rmsd/f graph from a .xvg file(Molecular simulation).
 
 HOW TO USE:
 
